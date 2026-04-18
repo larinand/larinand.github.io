@@ -1,0 +1,12 @@
+title: Nikola
+description: Copyright © 2026 Nikola's Blog
+theme: minima
+
+# supaya URL jadi rapi
+permalink: /:year/:month/:day/:title/
+
+# markdown engine
+markdown: kramdown
+
+# enable future posts
+future: true
