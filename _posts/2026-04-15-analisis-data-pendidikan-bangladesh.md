@@ -157,7 +157,7 @@ Disini statistik dasar dari dataset utamanya variabel numerik akan diuraikan sat
 
 ### Jam belajar - HSC
 
-![Plot jam belajar - HSC](assets/img/analisis-data-pendidikan-bangladesh/figure-1.png)
+![Plot jam belajar - HSC](/assets/img/analisis-data-pendidikan-bangladesh/figure-1.png)
 
 **🔍 Interpretasi**
 
