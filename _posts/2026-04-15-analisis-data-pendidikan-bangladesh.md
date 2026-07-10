@@ -152,3 +152,18 @@ Disini statistik dasar dari dataset utamanya variabel numerik akan diuraikan sat
 - Nilai minimum: 3,0
 - Nilai maksimum: 5,0
 - Rentang nilai (2,0 poin) menunjukkan adanya perbedaan tingkat prestasi akademik, namun masih dalam batas skala penilaian yang wajar.
+
+## Analisis Hubungan Antar Variabel
+
+### Jam belajar - HSC
+
+![Plot jam belajar - HSC](assets/images/analisis-data-pendidikan-bangladesh/figure-1.png)
+
+**🔍 Interpretasi**
+
+- Titik data tersebar secara acak tanpa pola yang jelas
+- Garis regresi memiliki kemiringan negatif sangat kecil (**-0,02**), menunjukkan kecenderungan penurunan yang sangat lemah
+- Hal ini menandakan bahwa perubahan pada variabel X hampir tidak berpengaruh terhadap variabel Y
+
+**📌 Kesimpulan**
+Secara keseluruhan, tidak terdapat hubungan yang berarti antara kedua variabel. Meskipun garis regresi menunjukkan arah negatif, kemiringannya yang sangat kecil mengindikasikan bahwa pengaruh tersebut tidak signifikan, sehingga kedua variabel tidak dapat digunakan untuk saling memprediksi secara andal.
